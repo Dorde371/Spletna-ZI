@@ -1,0 +1,149 @@
+.gradient-bg {
+    background: linear-gradient(to bottom, #0a1b26 0%, #141e28 100%);
+}
+
+.content-bg {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.navbar {
+    background-color: #6c757d !important;
+    color: #fff !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.navbar .nav-link, .navbar .navbar-brand, .navbar .dropdown-item {
+    color: #fff !important;
+}
+
+.dropdown-menu {
+    background-color: #6c757d !important;
+}
+
+.dropdown-menu .dropdown-item {
+    color: #fff !important;
+}
+
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.headers{
+  font-family: 'Orbitron', sans-serif;
+  
+}
+
+.btn{
+  font-family: 'Orbitron', sans-serif;
+
+}
+
+.nav-link:hover {
+    background-color: #030c1d;
+    color: #fff !important;
+}
+
+.dropdown-item:hover {
+    background-color: #030c1d;
+    color: #fff !important;
+}
+
+.cards-font {
+    color: #D9D9D9 !important;
+}
+
+.cards-gradient-bg2 {
+    background: linear-gradient(to bottom, #c5c5c5, #7963f5);
+}
+
+.kc-gradient {
+  background: linear-gradient(to bottom, #f9daff, #7963f5);
+}
+
+
+.section-light-bg {
+  background: #ededed;
+}
+
+.text-color-header{
+    color: aquamarine;
+}
+.section2{
+background-color: beige;
+}
+
+.font-color-header2{
+    color: #7963f5;
+}
+
+.modal-content {
+  background-color: #e6e6ff;
+}
+
+
+
+.bg-dark-red {
+  background-color: #8B0000 !important;
+}
+
+
+.white-shadow {
+  box-shadow: 0 0.5rem 1rem 0 rgba(255,255,255,0.25) !important;
+}
+
+/* hover opacity za slike */
+img[data-bs-toggle="modal"] {
+  transition: opacity 0.3s ease;
+}
+
+img[data-bs-toggle="modal"]:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.text-comfort {
+  color: #bfc9d1 !important;
+}
+
+.bg-comfort{
+  background-color: #bfc9d1 !important;
+
+
+}
+
+.bg-assistance{
+  background-color: #8b63e9 !important;
+
+
+}
+
+.orange-bg {
+  
+  background: #ff9900;
+}
+.orange-text {
+  color: #ff9900 !important;
+}
+
+.cards-title-bg{
+color: #6610f2 ;
+
+
+}
+.border-cards{
+border-color:#6610f2 !important;
+
+
+}
+
+.glass{
+
+  background: rgba(255, 255, 255, 0.09);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(1.6px);
+  -webkit-backdrop-filter: blur(1.2px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+
+}
+
